@@ -1,0 +1,111 @@
+Patient: Alice Smith
+Condition: Hypertension
+Medication: Lisinopril
+Age: 54
+Gender: Female
+Notes: Monitoring blood pressure regularly; advised to follow a low-sodium diet.
+
+Patient: Bob Johnson
+Condition: Type 2 Diabetes
+Medication: Metformin
+Age: 60
+Gender: Male
+Notes: Needs to check blood sugar levels daily; recommended exercise plan.
+
+Patient: Carol Williams
+Condition: Asthma
+Medication: Albuterol
+Age: 32
+Gender: Female
+Notes: Carry inhaler at all times; advised to avoid allergens.
+
+Patient: David Brown
+Condition: High Cholesterol
+Medication: Atorvastatin
+Age: 45
+Gender: Male
+Notes: Dietary changes recommended; follow up in 3 months.
+
+Patient: Eva Davis
+Condition: Anxiety
+Medication: Sertraline
+Age: 29
+Gender: Female
+Notes: Therapy sessions suggested; monitor mood changes.
+
+Patient: Frank Garcia
+Condition: Osteoarthritis
+Medication: Ibuprofen
+Age: 67
+Gender: Male
+Notes: Physical therapy recommended; pain management strategies discussed.
+
+Patient: Grace Martinez
+Condition: Hypothyroidism
+Medication: Levothyroxine
+Age: 45
+Gender: Female
+Notes: Regular thyroid function tests needed; adjust dosage as necessary.
+
+Patient: Henry Wilson
+Condition: COPD
+Medication: Tiotropium
+Age: 75
+Gender: Male
+Notes: Avoid smoke exposure; regular pulmonary function tests advised.
+
+Patient: Isabella Taylor
+Condition: Depression
+Medication: Fluoxetine
+Age: 40
+Gender: Female
+Notes: Regular counseling sessions recommended; monitor for side effects.
+
+Patient: Jack Anderson
+Condition: Congestive Heart Failure
+Medication: Furosemide
+Age: 62
+Gender: Male
+Notes: Daily weight monitoring; low-sodium diet advised.
+
+Patient: Karen Thomas
+Condition: Gout
+Medication: Allopurinol
+Age: 58
+Gender: Female
+Notes: Avoid purine-rich foods; drink plenty of fluids.
+
+Patient: Liam Hernandez
+Condition: Allergic Rhinitis
+Medication: Cetirizine
+Age: 34
+Gender: Male
+Notes: Use nasal spray as needed; avoid known allergens.
+
+Patient: Mia Moore
+Condition: Chronic Kidney Disease
+Medication: Lisinopril
+Age: 50
+Gender: Female
+Notes: Monitor kidney function; dietary restrictions advised.
+
+Patient: Noah Jackson
+Condition: Psoriasis
+Medication: Methotrexate
+Age: 37
+Gender: Male
+Notes: Regular dermatology follow-ups; monitor liver function.
+
+Patient: Olivia Lee
+Condition: Sleep Apnea
+Medication: CPAP Machine
+Age: 45
+Gender: Female
+Notes: Regular follow-up for CPAP usage; lifestyle changes recommended.
+
+Patient: Paul Harris
+Condition: Hyperthyroidism
+Medication: Methimazole
+Age: 41
+Gender: Male
+Notes: Monitor thyroid levels closely; regular blood tests required.
